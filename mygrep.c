@@ -1,3 +1,8 @@
+/**
+@file mygrep.c
+@author DD23154
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <getopt.h>
